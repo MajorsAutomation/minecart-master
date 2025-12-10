@@ -18,3 +18,5 @@ Through many iterations I found what worked, and now I want to share with you al
 I hope you guys enjoy using it, I will put some guides on youtube as needed.
 
 I will increase the amount of free runs if I start hearing of people using it. But I figured 5 is a good place where it doesn’t absolutely ruin personal economy experiences.
+
+WORK INSTRUCTIONS INCLUDED IN ZIP FILE README
